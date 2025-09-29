@@ -27,5 +27,5 @@ This section of the **AWS Cloud Practitioner training** introduces how Python is
 
 ---
 
-)
+
 
