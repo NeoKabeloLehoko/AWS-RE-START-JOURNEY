@@ -16,8 +16,7 @@ This section of the **AWS Cloud Practitioner training** introduces how Python is
 
 ---
 
-## Lab Objectives  
-By the end of the labs, you will be able to:  
+## Lab Objectives   
 - Configure a local Python environment to connect with AWS  
 - Write Python scripts to:  
   - Create and manage **S3 buckets** and upload/download objects  
