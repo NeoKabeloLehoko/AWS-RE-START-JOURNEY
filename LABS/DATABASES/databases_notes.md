@@ -25,7 +25,6 @@ The **Database section** in the AWS Cloud Practitioner training introduces AWSâ€
 ---
 
 ## Lab Objectives  
-By the end of the labs, you will be able to:  
 - Launch and configure an **Amazon RDS** instance  
 - Connect to a relational database using SQL queries  
 - Insert, update, and retrieve data from an RDS database  
