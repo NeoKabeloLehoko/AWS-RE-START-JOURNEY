@@ -8,6 +8,4 @@ This repo documents what I’ve learned and practiced during the program.It incl
 - Storage and Archiving
 - Networking
 
-As well as [**Certifications**]() I have aquired during this journey and the final [**Project**](./PROJECTS) we were tasked to design.
-
 ---
