@@ -5,5 +5,6 @@ This repo documents what I’ve learned and practiced during the program.It incl
 
 - [**Databases**](./LABS/DATABASES/)
 - [**Networking**](./LABS/NETWORKING)
+- [**Storage**](./LABS/STORAGE)
 
 ---
